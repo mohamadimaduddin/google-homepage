@@ -1,0 +1,1 @@
+This project will deconstruct a webpage and rebuild it myself as a project for The Odin Project. After completion, I should be able to understand the structure of a webpage, how to stylize a webpage, how to make a webpage interactive, and how to use tools that help me to achieve that.
